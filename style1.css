@@ -5,25 +5,16 @@
 
 body {
     background-color: #F4F4F4;
-    background-size: cover;
 }
 
-ul {
-    background-color: #007BFF;
-    list-style: none;
-    display: flex;
-    justify-content: space-between;
-    border-radius: 2px;
-    margin: 0px;
-    padding: 10px;
+h1 {
+    text-align: center;
 }
 
-li {
-    padding-left: 20px;
-    padding-right: 20px;
-}
 
-a {
+
+footer {
+    text-align: center;
     color: white;
-    text-decoration: none;
+    background-color: black;
 }
