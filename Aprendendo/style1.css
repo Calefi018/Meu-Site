@@ -1,0 +1,41 @@
+* {
+    margin: 0%;
+    padding: 0%;
+
+}
+
+body {
+    background-color: #F4F4F4;
+}
+
+h1 {
+    text-align: center;
+    border: 1px solid coral;
+    margin-left: 15px;
+    margin-right: 15px;
+    border-radius: 8px;
+}
+
+
+footer {
+    text-align: center;
+    color: rgb(5, 0, 0);
+
+}
+
+img {
+    width: 50px;
+    height: 50px;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+
+li{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
